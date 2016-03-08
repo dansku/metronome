@@ -1,0 +1,5 @@
+*.zip
+.DS_Store
+sfe-gerb274x.cam
+*.s#*
+*.b#*
