@@ -1715,9 +1715,31 @@ design rules under a new name.</description>
 <via x="35.306" y="58.166" extent="1-16" drill="2.54"/>
 <via x="53.848" y="58.166" extent="1-16" drill="2.54"/>
 <via x="59.69" y="36.576" extent="1-16" drill="2.54"/>
-<wire x1="35.306" y1="58.166" x2="53.848" y2="58.166" width="0" layer="19" extent="1-1"/>
-<wire x1="59.69" y1="36.576" x2="53.848" y2="58.166" width="0" layer="19" extent="1-1"/>
-<wire x1="28.702" y1="36.576" x2="35.306" y2="58.166" width="0" layer="19" extent="1-1"/>
+<polygon width="0.254" layer="1">
+<vertex x="26.924" y="70.612"/>
+<vertex x="26.924" y="36.576" curve="90"/>
+<vertex x="28.702" y="34.798"/>
+<vertex x="59.944" y="34.798" curve="90"/>
+<vertex x="61.468" y="36.322"/>
+<vertex x="61.468" y="70.104" curve="90"/>
+<vertex x="59.69" y="71.882"/>
+<vertex x="28.702" y="71.882"/>
+<vertex x="28.194" y="71.882" curve="90"/>
+</polygon>
+</signal>
+<signal name="N$2">
+<polygon width="0.254" layer="16">
+<vertex x="26.924" y="69.85"/>
+<vertex x="26.924" y="36.576" curve="90"/>
+<vertex x="28.702" y="34.798"/>
+<vertex x="59.69" y="34.798" curve="90"/>
+<vertex x="61.468" y="36.576"/>
+<vertex x="61.468" y="70.358" curve="90"/>
+<vertex x="59.944" y="71.882"/>
+<vertex x="28.448" y="71.882"/>
+<vertex x="28.194" y="71.628" curve="90"/>
+<vertex x="26.924" y="70.358"/>
+</polygon>
 </signal>
 </signals>
 <errors>
