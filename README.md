@@ -1,5 +1,5 @@
 # Metronome Electronics Kit (DIY)
 
-Coming soon...
+![PCB](https://raw.githubusercontent.com/dansku/metronome/master/images/metronome.jpg)
 
 ![PCB EAGLE](https://raw.githubusercontent.com/dansku/metronome/master/images/pcb.png)
